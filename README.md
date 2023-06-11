@@ -7,7 +7,6 @@ Instant file search integration for the Windows taskbar powered by Desktop Matri
 # Live App Demo
 
 <img src="img/first_demo.gif">
-<img src="img/second_demo.gif">
 
 Are you tired of spending precious time searching for files and folders on your Windows computer?
 
@@ -30,3 +29,5 @@ Downloading the project to your own system:
 - run `git clone https://github.com/JoexTitan/Desktop-Matrix-Engine.git` and the Desktop-Matrix-Engine should appear on your local system
 
 - make sure you have Python installed, then execute `python main.py`, congrats you did it!
+
+<img src="img/second_demo.gif">
