@@ -2,7 +2,7 @@
 
 # Desktop-Search-Engine
 
-Instant file search integration for the Windows taskbar powered by your very own Desktop Search Engine.
+Instant file search integration for the Windows taskbar powered by your very own search engine.
 
 # Live App Demo
 
