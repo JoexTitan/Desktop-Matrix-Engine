@@ -1,8 +1,8 @@
 <img src="img/logo.png">
 
-# Desktop-Matrix-Engine
+# Desktop-Search-Engine
 
-Instant file search integration for the Windows taskbar powered by Desktop Matrix Engine.
+Instant file search integration for the Windows taskbar powered by your very own Desktop Search Engine.
 
 # Live App Demo
 
@@ -26,7 +26,7 @@ Downloading the project to your own system:
 
 - create a folder in which you wish to save the project then `cmd` within the folder path to open the desired location
 
-- run `git clone https://github.com/JoexTitan/Desktop-Matrix-Engine.git` and the Desktop-Matrix-Engine should appear on your local system
+- run `git clone https://github.com/JoexTitan/Desktop-Search-Engine.git` and the Desktop-Matrix-Engine should appear on your local system
 
 - make sure you have Python installed, then execute `python main.py`, congrats you did it!
 
